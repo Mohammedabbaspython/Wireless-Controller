@@ -1,4 +1,4 @@
-from AndroidBluetooth import AndroidBluetooth
+from bluetooth.AndroidBluetooth import AndroidBluetooth
 
 from traceback import format_exc
 
