@@ -1,7 +1,3 @@
 kivy
-pyjnius
-#pil
-#jnius
 kivymd
-#sdl2_ttf
 pyserial
